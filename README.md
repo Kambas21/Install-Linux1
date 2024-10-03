@@ -15,4 +15,5 @@ Mata Kuliah : Arsitektur Dan Organisasi Komputer
 # 3. Langkah ketiga adalah menentukan besaran memory pada virtual machine, cukupberikan memory dengan ukuran memory pada virtual machine hendaknya tidak melebihi ukuran memori fisik sebenarnya.
 ![Cuplikan layar 2024-10-03 232858](https://github.com/user-attachments/assets/4d4111d0-8bfb-48f9-867f-0fa78f24546c)
 
-# 4. 
+# 4. Langkah berikutnya adalah membuat hard drive virtual. Dalam membuat hard drivevirtual, opsi yang dipilih adalah Create a virtual hard drive now lalu tekan tombol Create. Langkah berikutnya adalah memilih jenis hard drive apakah ukurannyadinamis atau fix. Yang dipilih adalah dynamically Alocated. Langkah berikutnyamenentukan ukuran hard drive virtual, yang diperlukan adalah 8 GB kemudian tekantombol Create.
+![Cuplikan layar 2024-10-03 233420](https://github.com/user-attachments/assets/d26b6b92-dce8-4d74-9757-0a90c919ac60)
