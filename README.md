@@ -9,7 +9,7 @@ Mata Kuliah : Arsitektur Dan Organisasi Komputer
 # 2. Langkah kedua yaitu membuat mesin baru dengan menekan tombol New, setelahituakan muncul isian tentang mesin baru yang telah dibuat.
 ![Cuplikan layar 2024-10-03 232615](https://github.com/user-attachments/assets/78a0af6f-21ff-49cb-9795-a9bfb13c8568)
 
-# 3. Langkah ketiga adalah menentukan besaran memory pada virtual machine, cukupberikan memory dengan ukuran ukuran memory pada virtual machine hendaknya tidak melebihi ukuran memori fisik sebenarnya.
+# 3. Langkah ketiga adalah menentukan besaran memory pada virtual machine, cukupberikan memory dengan ukuran memory pada virtual machine hendaknya tidak melebihi ukuran memori fisik sebenarnya.
 ![Cuplikan layar 2024-10-03 232858](https://github.com/user-attachments/assets/4d4111d0-8bfb-48f9-867f-0fa78f24546c)
 
 # 4. 
