@@ -8,6 +8,7 @@ Mata Kuliah : Arsitektur Dan Organisasi Komputer
 
 # 1.	Buatlah laporan proses instalasi di computer mahasiswa dan tampilkan screenshotnya.
 
+
 # a. Download Virtual Box di https://www.virtualbox.com/Downloads, laluinstall di komputer anda sampai selesai dengan sukses.
 ![Cuplikan layar 2024-10-03 230509](https://github.com/user-attachments/assets/1cc09634-d850-4f6a-90d8-aa07e22dd4d7)
 
@@ -40,7 +41,9 @@ Dalam membuat hard drivevirtual, opsi yang dipilih adalah Create a virtual hard 
 # i. Ketika sudah muncul seperti di bawah maka kita memasukkan Password dan Linux siap di gunakan.
 ![WhatsApp Image 2024-10-04 at 00 55 51](https://github.com/user-attachments/assets/df8faa3c-e650-4a56-a20e-f2fe5a91a273)
 
+
 # 2. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?
+
 
 Sangat penting untuk memilih titik pemasangan yang benar “/” saat memasang sistem operasi seperti linux. Berikut penyebabnya:
 
@@ -63,6 +66,7 @@ Karena disinilah sistem operasi akan diinstal, memilih “/” pada opsi Mount P
 
 # 3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs!
 Berikut ini menjelaskan berbagai jenis sistem berkas yang sering ditemukan dalam sistem operasi:
+
 
 # 1). Ext4
 •	Iterasi terbaru dari sistem berkas Linux yang populer, Ext4, disebut Ext4.
