@@ -1,6 +1,9 @@
 Nama : CAHAYA HIJRUN
+
 Nim : 09030282327014
+
 Kelas : TK 3 C
+
 Mata Kuliah : Arsitektur Dan Organisasi Komputer
 
 # 1. Download Virtual Box di https://www.virtualbox.com/Downloads, laluinstall di komputer anda sampai selesai dengan sukses.
